@@ -1,0 +1,17 @@
+.Footer{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: lightgray;
+    background-color: black;
+
+    position: absolute;
+    z-index: 100;
+}
+
+.Footer p{
+    padding-top: 10px;
+}
