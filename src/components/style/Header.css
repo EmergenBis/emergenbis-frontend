@@ -1,0 +1,12 @@
+.Header {
+    display: flex;
+    align-content: center;
+    height: 65px;
+    width: 100%;
+    border-bottom: 1px solid #316372;
+}
+
+.Header img{
+    margin: 12px 0 10px 20px;
+    height: 50px;
+}
